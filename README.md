@@ -10,3 +10,5 @@ Our goal is to build a machine learning model that can learn from the measuremen
 
 ## APPROACH
 From the figure given below it is easy to observe that every feature distinctly differentiates the species of the iris.
+
+<img src="./iris.png"/>
