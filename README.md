@@ -9,6 +9,6 @@ Let’s assume that these are the only species our hobby botanist will encounter
 Our goal is to build a machine learning model that can learn from the measurements of these irises whose species is known, so that we can predict the species for a new iris.
 
 ## APPROACH
-From the figure given below it is easy to observe that every feature distinctly differentiates the species of the iris.
+From the figure given below it is easy to observe that every feature distinctly differentiates the species of the iris. So every feature was considered while making the prediction. Then KNeighborsClassifier was used to train the dataset. The classifier gave a perfect accuracy of 100%, mainly owing to the small size of the dataset.
 
 <img src="./iris.png"/>
