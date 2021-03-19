@@ -7,3 +7,6 @@ She also has the measurements of some irises that have been previously identifie
 Let’s assume that these are the only species our hobby botanist will encounter in the wild.
 
 Our goal is to build a machine learning model that can learn from the measurements of these irises whose species is known, so that we can predict the species for a new iris.
+
+## APPROACH
+From the figure given below it is easy to observe that every feature distinctly differentiates the species of the iris.
